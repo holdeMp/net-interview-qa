@@ -6,8 +6,11 @@
 ## 📁 Repository Structure
 
 ├── 📂 databases/
-│ ├── 📂 postgresql/
-│ │ └── 📄 postgresql.md
+│   ├── 📂 postgresql/
+│   │   └── 📄 postgresql.md
+├── 📂 core-dotnet/
+│   ├── 📄 csharp-basics.md
+│
 
 ```
 
@@ -15,7 +18,7 @@
 
 ### Core .NET Technologies
 
-- ✅ **C# Language** (7.0 - 12.0)
+- ✅ **C# Language** (7.0 - 12.0) - [📖 C# Basics Q&A](./core-dotnet/csharp-basics.md)
 - ✅ **.NET Framework** & **.NET Core/.NET 5+**
 - ✅ **ASP.NET Core** (MVC, Web API, Blazor)
 - ✅ **Entity Framework Core**
