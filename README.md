@@ -18,22 +18,18 @@
 │   └── 📂 images/
 │       └── 🖼️ angularLifecycleHooks.png
 
+├── 📂 general-programming/
+│   └── 📄 general-programming.md
+
 ```
 
 ## 🛠 Technology Coverage
 
 ### Core .NET Technologies
 
-- ✅ **C# Language** (7.0 - 12.0) - [📖 C# Basics Q&A](./core-dotnet/csharp-basics.md)
-- ✅ **C# Threading & Concurrency** - [📖 Threading Q&A](./core-dotnet/csharp-threading.md)
-- ✅ **.NET Framework** & **.NET Core/.NET 5+**
-- ✅ **ASP.NET Core** (MVC, Web API, Blazor)
-- ✅ **Entity Framework Core**
-- ✅ **LINQ** & **Lambda Expressions**
-- ✅ **Dependency Injection** & **IoC Containers**
-- ✅ **Memory Management** (Garbage Collection, Finalizers, IDisposable)
-- ✅ **Collection Interfaces** (IEnumerable, IQueryable, ICollection, IList)
-- ✅ **OOP Concepts** (Abstract Classes vs Interfaces)
+### General Programming
+
+- ✅ **General Programming Concepts** - [📖 General Programming Q&A](./general-programming/general-programming.md)
 
 ### Database Technologies
 
